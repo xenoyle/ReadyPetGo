@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\conno\AppData\Local\Temp\surefire16596876740931942316\surefirebooter8090684720449784072.jar C:\Users\conno\AppData\Local\Temp\surefire16596876740931942316 2024-09-15T18-20-39_358-jvmRun1 surefire14508327047642724023tmp surefire_010005811610390759203tmp"/>
+    <property name="sun.java.command" value="C:\Users\conno\AppData\Local\Temp\surefire2749954372993713606\surefirebooter16693791589403217002.jar C:\Users\conno\AppData\Local\Temp\surefire2749954372993713606 2024-09-15T18-27-46_014-jvmRun1 surefire17441991983372184574tmp surefire_017605423679670652445tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\conno\Desktop\ReadyPetGo\common\target\test-classes;C:\Users\conno\Desktop\ReadyPetGo\common\target\classes;C:\Users\conno\.m2\repository\com\codenameone\codenameone-core\7.0.161\codenameone-core-7.0.161.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\conno\AppData\Local\Temp\surefire16596876740931942316\surefirebooter8090684720449784072.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\conno\AppData\Local\Temp\surefire2749954372993713606\surefirebooter16693791589403217002.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.3+7-LTS-152"/>

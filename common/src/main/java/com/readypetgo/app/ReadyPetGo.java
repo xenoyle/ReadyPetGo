@@ -25,7 +25,7 @@ public class ReadyPetGo extends Lifecycle {
     }
 
     private void hello() {
-        Dialog.show("Hello Codename One", "Welcome to Codename One", "OK", null);
+        Dialog.show("Ready Pet Go", "Welcome to Ready Pet Go", "OK", null);
     }
 
 }

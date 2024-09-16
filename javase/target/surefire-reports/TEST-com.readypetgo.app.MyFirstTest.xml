@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.readypetgo.app.MyFirstTest" time="0.001" tests="0" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.readypetgo.app.MyFirstTest" time="0.002" tests="0" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\conno\AppData\Local\Temp\surefire8620783206141181980\surefirebooter11621713328892399578.jar C:\Users\conno\AppData\Local\Temp\surefire8620783206141181980 2024-09-15T18-20-39_358-jvmRun1 surefire17611357228500292239tmp surefire_115905432979555098671tmp"/>
+    <property name="sun.java.command" value="C:\Users\conno\AppData\Local\Temp\surefire17893274574871552443\surefirebooter9868420119444604559.jar C:\Users\conno\AppData\Local\Temp\surefire17893274574871552443 2024-09-15T18-27-46_014-jvmRun1 surefire6897746928539508852tmp surefire_18974996593815533942tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\conno\Desktop\ReadyPetGo\javase\target\test-classes;C:\Users\conno\Desktop\ReadyPetGo\javase\target\classes;C:\Users\conno\Desktop\ReadyPetGo\common\target\readypetgo-common-1.0-SNAPSHOT.jar;C:\Users\conno\Desktop\ReadyPetGo\common\target\readypetgo-common-1.0-SNAPSHOT-tests.jar;C:\Users\conno\.m2\repository\com\codenameone\codenameone-core\7.0.161\codenameone-core-7.0.161.jar;C:\Users\conno\.m2\repository\com\codenameone\codenameone-javase\7.0.161\codenameone-javase-7.0.161.jar;C:\Users\conno\.m2\repository\com\codenameone\sqlite-jdbc\7.0.161\sqlite-jdbc-7.0.161.jar;C:\Users\conno\.m2\repository\com\jhlabs\filters\2.0.235-1\filters-2.0.235-1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\conno\AppData\Local\Temp\surefire8620783206141181980\surefirebooter11621713328892399578.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\conno\AppData\Local\Temp\surefire17893274574871552443\surefirebooter9868420119444604559.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.3+7-LTS-152"/>
