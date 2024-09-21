@@ -6,14 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="readypetgo-javase" />
         <module name="readypetgo-common" />
+        <module name="readypetgo-javase" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="readypetgo" target="8" />
-      <module name="readypetgo-common" target="1.8" />
-      <module name="readypetgo-javase" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
